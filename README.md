@@ -1,6 +1,6 @@
 # Twitter Clone
 
-This is a simple application created using `React Native` and `Redux` to mimic basic design and functionality of the official Twitter app.
+This is a simple application created using MongoDB,JavaScript and Nodejs to mimic basic design and functionality of the official Twitter app.
 It uses `fakerJs` and `json-server` to run a demo server for the application.
 
 ## Preview - 
