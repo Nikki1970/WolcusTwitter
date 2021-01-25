@@ -1,15 +1,16 @@
 # Twitter Clone
 
 This is a simple application created using MongoDB,JavaScript and Nodejs to mimic basic design and functionality of the official Twitter app.
-It uses `fakerJs` and `json-server` to run a demo server for the application.
+It uses Heroku to run a demo server for the application.
 
-## Preview - 
 
-![ios-demo](./screenshots/TwitterClone.gif)
 
 ## Dependencies
+-JavaScript
+-Node JS
 - React Native
 - NativeBase for UI Elements
+-Heruko
 - FakerJS
 - Lodash
 - Redux for State Management
@@ -64,8 +65,3 @@ Run the following command
 $ npm run android
 ```
 
-## Credits
-
-*	[NativeBase](http://nativebase.io)
-*	[Sankhadeep Roy](https://github.com/sankhadeeproy007)
-*	[Jasbir23](https://github.com/Jasbir23)
