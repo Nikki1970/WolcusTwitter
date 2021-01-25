@@ -6,62 +6,9 @@ It uses Heroku to run a demo server for the application.
 
 
 ## Dependencies
--JavaScript
--Node JS
+- JavaScript
+- Node JS
+- Heruko
 - React Native
 - NativeBase for UI Elements
--Heruko
 - FakerJS
-- Lodash
-- Redux for State Management
-- Redux Saga
-- React Navigation
-
-## Get Started
-
-#### 1. Clone the Repo
-
-On the command prompt run the following commands
-```sh
-$ git clone https://github.com/pranit123/Twitter-Clone.git
-
-$ cd Twitter-Clone/
-
-$ npm install
-
-$ npm install -g json-server
-
-```
-
-#### 2. Run the server
-
-Run the following command
-
-```sh
-$ npm run serve
-```
-
-#### To start the expo app
-
-Run the following command
-
-```sh
-$ npm start
-```
-
-#### To run on iOS simulator/device
-
-Run the following command
-
-```sh
-$ npm run ios
-```
-
-#### To run on android emulator/device
-
-Run the following command
-
-```sh
-$ npm run android
-```
-
